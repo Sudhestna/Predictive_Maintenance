@@ -1,0 +1,77 @@
+{
+    "R101": {
+        "machine_name": "Wing Positioning & Fixturing Robot",
+        "state": "MAINTENANCE",
+        "maintenance_completed": false,
+        "hits": 0,
+        "change_frequency": 1,
+        "sensors": {
+            "joint_temperature_c": 65.19,
+            "motor_current_a": 12.97,
+            "joint_vibration_mm_s": 2.007,
+            "encoder_position_deg": 0.41,
+            "torque_nm": 730.07
+        },
+        "timestamp": "2026-08-08T06:25:15.800519+00:00"
+    },
+    "R102": {
+        "machine_name": "Friction Stir Welding Robot",
+        "state": "CRITICAL",
+        "maintenance_completed": false,
+        "hits": 0,
+        "change_frequency": 1,
+        "sensors": {
+            "welding_temperature_c": 263,
+            "spindle_torque_nm": 965.02,
+            "coolant_flow_rate_lpm": 16.01,
+            "motor_current_a": 22.04,
+            "vibration_mm_s": 2.277
+        },
+        "timestamp": "2026-08-08T03:13:18.665606+00:00"
+    },
+    "R103": {
+        "machine_name": "Automated Riveting Robot",
+        "state": "CRITICAL",
+        "maintenance_completed": false,
+        "hits": 0,
+        "change_frequency": 1,
+        "sensors": {
+            "pneumatic_pressure_bar": 6.01,
+            "riveting_force_kn": 7.7,
+            "motor_current_a": 13.1,
+            "vibration_mm_s": 3.1,
+            "encoder_position_deg": 0.21
+        },
+        "timestamp": "2026-08-08T03:16:15.455842+00:00"
+    },
+    "R104": {
+        "machine_name": "Paint & Protective Coating Robot",
+        "state": "NORMAL",
+        "maintenance_completed": false,
+        "hits": 0,
+        "change_frequency": 1,
+        "sensors": {
+            "paint_pressure_bar": 5.7,
+            "paint_flow_rate_lpm": 25.01,
+            "nozzle_temperature_c": 52.5,
+            "pump_current_a": 10.2,
+            "robot_speed_mm_s": 150
+        },
+        "timestamp": "2026-08-08T02:23:44.522159+00:00"
+    },
+    "R105": {
+        "machine_name": "Vision Inspection Robot",
+        "state": "WARNING",
+        "maintenance_completed": false,
+        "hits": 0,
+        "change_frequency": 1,
+        "sensors": {
+            "camera_temperature_c": 45.7,
+            "laser_thickness_sensor_um": 49,
+            "lighting_intensity_lux": 979,
+            "cpu_temperature_c": 0.04,
+            "camera_position_encoder_deg": 0.12
+        },
+        "timestamp": "2026-08-08T02:23:44.523662+00:00"
+    }
+}

@@ -1,0 +1,302 @@
+<downtime_events>
+  <event>
+    <event_id>DT_1000</event_id>
+    <machine_id>MCH_1</machine_id>
+    <start_time>2026-07-30T08:00:00</start_time>
+    <end_time>2026-07-30T08:49:00</end_time>
+    <duration_minutes>49</duration_minutes>
+    <reason>Sensor calibration error</reason>
+    <location>Plant B - Section 2</location>
+    <shift>Night</shift>
+    <operator>Team Alpha</operator>
+    <maintenance_action>Cooling system repair</maintenance_action>
+    <spare_parts_used>Hydraulic seal</spare_parts_used>
+    <failure_category>Software</failure_category>
+    <temperature>50</temperature>
+    <pressure>134.4</pressure>
+    <energy_consumption>224.1</energy_consumption>
+    <reported_by>Operator ID 861</reported_by>
+    <safety_incident_flag>No</safety_incident_flag>
+    <cost_impact>2688.27</cost_impact>
+  </event>
+  <event>
+    <event_id>DT_1001</event_id>
+    <machine_id>MCH_2</machine_id>
+    <start_time>2026-07-30T08:10:00</start_time>
+    <end_time>2026-07-30T08:47:00</end_time>
+    <duration_minutes>37</duration_minutes>
+    <reason>Overheating</reason>
+    <location>Plant A - Section 1</location>
+    <shift>Evening</shift>
+    <operator>Team Alpha</operator>
+    <maintenance_action>Cooling system repair</maintenance_action>
+    <spare_parts_used>Cooling fan</spare_parts_used>
+    <failure_category>Electrical</failure_category>
+    <temperature>50</temperature>
+    <pressure>221.9</pressure>
+    <energy_consumption>459.1</energy_consumption>
+    <reported_by>Operator ID 408</reported_by>
+    <safety_incident_flag>Yes</safety_incident_flag>
+    <cost_impact>3514.51</cost_impact>
+  </event>
+  <event>
+    <event_id>DT_1002</event_id>
+    <machine_id>MCH_1</machine_id>
+    <start_time>2026-07-30T08:20:00</start_time>
+    <end_time>2026-07-30T08:54:00</end_time>
+    <duration_minutes>34</duration_minutes>
+    <reason>Overheating</reason>
+    <location>Plant A - Section 1</location>
+    <shift>Evening</shift>
+    <operator>Team Gamma</operator>
+    <maintenance_action>Cooling system repair</maintenance_action>
+    <spare_parts_used>Sensor unit</spare_parts_used>
+    <failure_category>Software</failure_category>
+    <temperature>50</temperature>
+    <pressure>284.2</pressure>
+    <energy_consumption>449.8</energy_consumption>
+    <reported_by>Operator ID 182</reported_by>
+    <safety_incident_flag>No</safety_incident_flag>
+    <cost_impact>4321.04</cost_impact>
+  </event>
+  <event>
+    <event_id>DT_1003</event_id>
+    <machine_id>MCH_3</machine_id>
+    <start_time>2026-07-30T08:30:00</start_time>
+    <end_time>2026-07-30T08:50:00</end_time>
+    <duration_minutes>20</duration_minutes>
+    <reason>Hydraulic pressure drop</reason>
+    <location>Plant B - Section 2</location>
+    <shift>Morning</shift>
+    <operator>Team Alpha</operator>
+    <maintenance_action>Sensor recalibration</maintenance_action>
+    <spare_parts_used>Sensor unit</spare_parts_used>
+    <failure_category>Mechanical</failure_category>
+    <temperature>50</temperature>
+    <pressure>139.4</pressure>
+    <energy_consumption>220.0</energy_consumption>
+    <reported_by>Operator ID 910</reported_by>
+    <safety_incident_flag>Yes</safety_incident_flag>
+    <cost_impact>4937.84</cost_impact>
+  </event>
+  <event>
+    <event_id>DT_1004</event_id>
+    <machine_id>MCH_2</machine_id>
+    <start_time>2026-07-30T08:40:00</start_time>
+    <end_time>2026-07-30T09:04:00</end_time>
+    <duration_minutes>24</duration_minutes>
+    <reason>Hydraulic pressure drop</reason>
+    <location>Plant C - Section 3</location>
+    <shift>Night</shift>
+    <operator>Team Alpha</operator>
+    <maintenance_action>Sensor recalibration</maintenance_action>
+    <spare_parts_used>Hydraulic seal</spare_parts_used>
+    <failure_category>Software</failure_category>
+    <temperature>50</temperature>
+    <pressure>265.5</pressure>
+    <energy_consumption>687.2</energy_consumption>
+    <reported_by>Operator ID 831</reported_by>
+    <safety_incident_flag>Yes</safety_incident_flag>
+    <cost_impact>2598.6</cost_impact>
+  </event>
+  <event>
+    <event_id>DT_1005</event_id>
+    <machine_id>MCH_4</machine_id>
+    <start_time>2026-07-30T08:50:00</start_time>
+    <end_time>2026-07-30T09:26:00</end_time>
+    <duration_minutes>36</duration_minutes>
+    <reason>Hydraulic pressure drop</reason>
+    <location>Plant C - Section 3</location>
+    <shift>Morning</shift>
+    <operator>Team Alpha</operator>
+    <maintenance_action>Cooling system repair</maintenance_action>
+    <spare_parts_used>Cooling fan</spare_parts_used>
+    <failure_category>Mechanical</failure_category>
+    <temperature>50</temperature>
+    <pressure>286.0</pressure>
+    <energy_consumption>668.7</energy_consumption>
+    <reported_by>Operator ID 119</reported_by>
+    <safety_incident_flag>Yes</safety_incident_flag>
+    <cost_impact>3326.23</cost_impact>
+  </event>
+  <event>
+    <event_id>DT_1006</event_id>
+    <machine_id>MCH_5</machine_id>
+    <start_time>2026-07-30T09:00:00</start_time>
+    <end_time>2026-07-30T09:13:00</end_time>
+    <duration_minutes>13</duration_minutes>
+    <reason>Electrical fault</reason>
+    <location>Plant A - Section 1</location>
+    <shift>Evening</shift>
+    <operator>Team Alpha</operator>
+    <maintenance_action>Cooling system repair</maintenance_action>
+    <spare_parts_used>Fuse</spare_parts_used>
+    <failure_category>Software</failure_category>
+    <temperature>50</temperature>
+    <pressure>259.7</pressure>
+    <energy_consumption>370.2</energy_consumption>
+    <reported_by>Operator ID 575</reported_by>
+    <safety_incident_flag>Yes</safety_incident_flag>
+    <cost_impact>2958.9</cost_impact>
+  </event>
+  <event>
+    <event_id>DT_1007</event_id>
+    <machine_id>MCH_2</machine_id>
+    <start_time>2026-07-30T09:10:00</start_time>
+    <end_time>2026-07-30T09:52:00</end_time>
+    <duration_minutes>42</duration_minutes>
+    <reason>Electrical fault</reason>
+    <location>Plant C - Section 3</location>
+    <shift>Night</shift>
+    <operator>Team Beta</operator>
+    <maintenance_action>Electrical rewiring</maintenance_action>
+    <spare_parts_used>Cooling fan</spare_parts_used>
+    <failure_category>Mechanical</failure_category>
+    <temperature>50</temperature>
+    <pressure>126.9</pressure>
+    <energy_consumption>514.5</energy_consumption>
+    <reported_by>Operator ID 855</reported_by>
+    <safety_incident_flag>No</safety_incident_flag>
+    <cost_impact>2415.3</cost_impact>
+  </event>
+  <event>
+    <event_id>DT_1008</event_id>
+    <machine_id>MCH_1</machine_id>
+    <start_time>2026-07-30T09:20:00</start_time>
+    <end_time>2026-07-30T09:51:00</end_time>
+    <duration_minutes>31</duration_minutes>
+    <reason>Electrical fault</reason>
+    <location>Plant B - Section 2</location>
+    <shift>Evening</shift>
+    <operator>Team Alpha</operator>
+    <maintenance_action>Sensor recalibration</maintenance_action>
+    <spare_parts_used>Hydraulic seal</spare_parts_used>
+    <failure_category>Mechanical</failure_category>
+    <temperature>50</temperature>
+    <pressure>174.6</pressure>
+    <energy_consumption>559.4</energy_consumption>
+    <reported_by>Operator ID 988</reported_by>
+    <safety_incident_flag>Yes</safety_incident_flag>
+    <cost_impact>2338.0</cost_impact>
+  </event>
+  <event>
+    <event_id>DT_1009</event_id>
+    <machine_id>MCH_3</machine_id>
+    <start_time>2026-07-30T09:30:00</start_time>
+    <end_time>2026-07-30T10:20:00</end_time>
+    <duration_minutes>50</duration_minutes>
+    <reason>Hydraulic pressure drop</reason>
+    <location>Plant A - Section 1</location>
+    <shift>Night</shift>
+    <operator>Team Beta</operator>
+    <maintenance_action>Electrical rewiring</maintenance_action>
+    <spare_parts_used>Hydraulic seal</spare_parts_used>
+    <failure_category>Electrical</failure_category>
+    <temperature>50</temperature>
+    <pressure>155.4</pressure>
+    <energy_consumption>346.1</energy_consumption>
+    <reported_by>Operator ID 654</reported_by>
+    <safety_incident_flag>No</safety_incident_flag>
+    <cost_impact>2613.33</cost_impact>
+  </event>
+  <event>
+    <event_id>DT_1010</event_id>
+    <machine_id>MCH_4</machine_id>
+    <start_time>2026-07-30T09:40:00</start_time>
+    <end_time>2026-07-30T10:00:00</end_time>
+    <duration_minutes>20</duration_minutes>
+    <reason>Overheating</reason>
+    <location>Plant B - Section 2</location>
+    <shift>Evening</shift>
+    <operator>Team Beta</operator>
+    <maintenance_action>Cooling system repair</maintenance_action>
+    <spare_parts_used>Hydraulic seal</spare_parts_used>
+    <failure_category>Electrical</failure_category>
+    <temperature>50</temperature>
+    <pressure>116.8</pressure>
+    <energy_consumption>701.1</energy_consumption>
+    <reported_by>Operator ID 695</reported_by>
+    <safety_incident_flag>No</safety_incident_flag>
+    <cost_impact>3280.64</cost_impact>
+  </event>
+  <event>
+    <event_id>DT_1011</event_id>
+    <machine_id>MCH_1</machine_id>
+    <start_time>2026-07-30T09:50:00</start_time>
+    <end_time>2026-07-30T10:43:00</end_time>
+    <duration_minutes>53</duration_minutes>
+    <reason>Overheating</reason>
+    <location>Plant C - Section 3</location>
+    <shift>Evening</shift>
+    <operator>Team Gamma</operator>
+    <maintenance_action>Electrical rewiring</maintenance_action>
+    <spare_parts_used>Sensor unit</spare_parts_used>
+    <failure_category>Electrical</failure_category>
+    <temperature>50</temperature>
+    <pressure>112.1</pressure>
+    <energy_consumption>538.4</energy_consumption>
+    <reported_by>Operator ID 666</reported_by>
+    <safety_incident_flag>No</safety_incident_flag>
+    <cost_impact>2214.15</cost_impact>
+  </event>
+  <event>
+    <event_id>DT_1012</event_id>
+    <machine_id>MCH_4</machine_id>
+    <start_time>2026-07-30T10:00:00</start_time>
+    <end_time>2026-07-30T10:57:00</end_time>
+    <duration_minutes>57</duration_minutes>
+    <reason>Sensor calibration error</reason>
+    <location>Plant C - Section 3</location>
+    <shift>Evening</shift>
+    <operator>Team Beta</operator>
+    <maintenance_action>Seal replacement</maintenance_action>
+    <spare_parts_used>Sensor unit</spare_parts_used>
+    <failure_category>Software</failure_category>
+    <temperature>50</temperature>
+    <pressure>284.6</pressure>
+    <energy_consumption>203.6</energy_consumption>
+    <reported_by>Operator ID 575</reported_by>
+    <safety_incident_flag>No</safety_incident_flag>
+    <cost_impact>4306.17</cost_impact>
+  </event>
+  <event>
+    <event_id>DT_1013</event_id>
+    <machine_id>MCH_1</machine_id>
+    <start_time>2026-07-30T10:10:00</start_time>
+    <end_time>2026-07-30T10:54:00</end_time>
+    <duration_minutes>44</duration_minutes>
+    <reason>Overheating</reason>
+    <location>Plant C - Section 3</location>
+    <shift>Evening</shift>
+    <operator>Team Gamma</operator>
+    <maintenance_action>Cooling system repair</maintenance_action>
+    <spare_parts_used>Hydraulic seal</spare_parts_used>
+    <failure_category>Mechanical</failure_category>
+    <temperature>50</temperature>
+    <pressure>165.2</pressure>
+    <energy_consumption>481.6</energy_consumption>
+    <reported_by>Operator ID 971</reported_by>
+    <safety_incident_flag>No</safety_incident_flag>
+    <cost_impact>977.3</cost_impact>
+  </event>
+  <event>
+    <event_id>DT_1014</event_id>
+    <machine_id>MCH_3</machine_id>
+    <start_time>2026-07-30T10:20:00</start_time>
+    <end_time>2026-07-30T10:47:00</end_time>
+    <duration_minutes>27</duration_minutes>
+    <reason>Overheating</reason>
+    <location>Plant A - Section 1</location>
+    <shift>Evening</shift>
+    <operator>Team Alpha</operator>
+    <maintenance_action>Cooling system repair</maintenance_action>
+    <spare_parts_used>Sensor unit</spare_parts_used>
+    <failure_category>Mechanical</failure_category>
+    <temperature>50</temperature>
+    <pressure>202.9</pressure>
+    <energy_consumption>709.0</energy_consumption>
+    <reported_by>Operator ID 251</reported_by>
+    <safety_incident_flag>Yes</safety_incident_flag>
+    <cost_impact>595.46</cost_impact>
+  </event>
+</downtime_events>

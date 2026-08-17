@@ -1,0 +1,69 @@
+<div class="analytics-container">
+  <header class="analytics-header">
+    <h1>{{ title }}</h1>
+  </header>
+
+  <section class="analytics-content">
+    <!-- KPI Cards -->
+    <div class="kpi-grid">
+      <div class="kpi-card">
+        <h3>Total Requests</h3>
+        <!-- <p>{{ backend.total_requests }}</p> -->
+      </div>
+      <div class="kpi-card">
+        <h3>Successful</h3>
+        <!-- <p>{{ backend.successful_requests }}</p> -->
+      </div>
+      <div class="kpi-card warning">
+        <h3>Failed</h3>
+        <!-- <p>{{ backend.failed_requests }}</p> -->
+      </div>
+    </div>
+
+   <div class="analytics-container">
+  <header class="analytics-header">
+    <h1>{{ title }}</h1>
+  </header>
+
+  <section class="analytics-content">
+    <div class="charts">
+      <div class="chart-card">
+        <h3>Equipment Performance</h3>
+        <canvas #performanceChart></canvas>
+      </div>
+      <div class="chart-card">
+        <h3>Failure Distribution</h3>
+        <canvas #failureChart></canvas>
+      </div>
+    </div>
+  </section>
+</div>
+
+
+    <!-- Table -->
+    <div class="data-table">
+      <h3>Recent Anomalies</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>Timestamp</th>
+            <th>Equipment</th>
+            <th>Severity</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>2026-08-07 14:32</td>
+            <td>Motor A</td>
+            <td>Critical</td>
+          </tr>
+          <tr>
+            <td>2026-08-07 13:15</td>
+            <td>Pump B</td>
+            <td>Warning</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+</div>

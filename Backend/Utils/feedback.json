@@ -1,0 +1,14 @@
+[
+    {
+        "session_id": "sdfghjskdfvcdsbqn",
+        "feedback": "Hallucination",
+        "comment": "Please improve answer size ",
+        "timestamp": "2026-08-06T14:04:31.298980"
+    },
+    {
+        "session_id": "728ffc6e-ded1-4b38-be9d-7aec4d04a95b",
+        "feedback": "Missing information",
+        "comment": null,
+        "timestamp": "2026-08-08T11:52:14.877721"
+    }
+]

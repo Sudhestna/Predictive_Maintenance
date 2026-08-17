@@ -1,0 +1,47 @@
+{
+    "backend": {
+        "total_requests": 59,
+        "successful_requests": 48,
+        "failed_requests": 9,
+        "active_sessions": 1
+    },
+    "chat": {
+        "total_queries": 11,
+        "text_queries": 14,
+        "voice_queries": 0,
+        "reports_generated": 1,
+        "interrupts_triggered": 2
+    },
+    "documents": {
+        "documents_uploaded": 15,
+        "ocr_processed": 0
+    },
+    "retrieval": {
+        "vector_searches": 7,
+        "graph_searches": 0,
+        "tool_calls": 6,
+        "hybrid_rag_calls": 0,
+        "citations_generated": 7
+    },
+    "llm": {
+        "guardrail_calls": 14,
+        "entity_extraction_calls": 9,
+        "rag_generation_calls": 5,
+        "retry_count": 3
+    },
+    "guardrails": {
+        "prompt_injection_or_jailbreak": 0,
+        "out_of_scope": 0,
+        "toxicity_detected": 0,
+        "profanity_detected": 0,
+        "pii_masked": 2
+    },
+    "feedback": {
+        "helpful": 0,
+        "incorrect_answer": 0,
+        "hallucination": 0,
+        "missing_information": 0,
+        "poor_explanation": 0,
+        "other": 0
+    }
+}

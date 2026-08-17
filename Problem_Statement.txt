@@ -1,0 +1,14 @@
+Handwritten Note:
+Team - 07 Ports & Cargo.
+AI Friday Season 2 – Problem Statements
+IoT-Enabled Predictive Maintenance Platform for Industrial Equipment
+PROBLEM STATEMENT
+Manufacturing plants operate complex machinery that requires timely maintenance to avoid costly downtime and failures. Current maintenance scheduling is often reactive or based on fixed intervals, leading to inefficient resource use and unexpected breakdowns. Integrating IoT sensor data with maintenance records and operational logs is challenging, limiting predictive insights. Furthermore, disparate systems and lack of real-time analytics hinder proactive decision-making. Maintenance teams lack intuitive tools to prioritize interventions and coordinate actions. Without predictive maintenance enabled by AI and IoT integration, manufacturers face increased operational costs, reduced equipment lifespan, and production losses.
+
+Data Considerations:
+IoT sensor data in streaming formats (MQTT, JSON); historical maintenance and repair records; equipment operational parameters; data volume is high-frequency sensor data requiring scalable ingestion; data quality must address sensor noise and missing values; privacy considerations focus on operational data confidentiality; preprocessing includes filtering, feature extraction, and anomaly detection; synthetic sensor streams for testing failure scenarios.
+Consider using synthetic or anonymized data where appropriate. Ensure data quality and relevance to the problem context.
+
+SOLUTION EXPECTATIONS
+A multi-agent IoT platform with real-time data ingestion, anomaly detection, and failure prediction capabilities. The system integrates with maintenance management APIs to automate alerting and scheduling. User-facing dashboards provide visualizations of equipment health, predictive alerts, and maintenance history. Success is measured by predictive accuracy, reduction in downtime, and user adoption rates. The prototype demonstrates sensor integration, multi-agent analytics, and actionable maintenance workflows.
+Feel free to explore creative solutions that align with the problem context and objectives.

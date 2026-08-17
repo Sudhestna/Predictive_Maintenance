@@ -1,0 +1,20 @@
+<div class="toast-container">
+
+    @for(
+        toast of (toastService.toasts$ | async);
+        track toast.id
+    ){
+
+        <div
+            class="toast"
+            [class.success]="toast.type==='success'"
+            [class.error]="toast.type==='error'"
+            [class.info]="toast.type==='info'">
+
+            {{toast.message}}
+
+        </div>
+
+    }
+
+</div>

@@ -1,0 +1,25 @@
+<div class="settings-container">
+  <h1>{{ title }}</h1>
+
+  <div class="settings-section">
+    <h3>Appearance</h3>
+    <label>
+      <input type="checkbox" [(ngModel)]="darkMode" (change)="toggleDarkMode()" />
+      Dark Mode
+    </label>
+  </div>
+
+  <div class="settings-section">
+    <h3>Notifications</h3>
+    <label>
+      <input type="checkbox" [(ngModel)]="notifications" (change)="toggleNotifications()" />
+      Enable Notifications
+    </label>
+  </div>
+
+  <div class="settings-section">
+    <h3>System</h3>
+    <button class="btn">Clear Cache</button>
+    <button class="btn">Reset Defaults</button>
+  </div>
+</div>

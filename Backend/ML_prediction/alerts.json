@@ -1,0 +1,404 @@
+[
+    {
+        "timestamp": "2026-08-08T10:53:37.333346",
+        "machine_id": "R103",
+        "message": "Anomaly detected in machine R103. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T10:53:37.350895",
+        "machine_id": "R105",
+        "message": "Anomaly detected in machine R105. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T10:53:47.695240",
+        "machine_id": "R104",
+        "message": "Anomaly detected in machine R104. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T10:54:08.328239",
+        "machine_id": "R103",
+        "message": "Anomaly detected in machine R103. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T10:54:08.360797",
+        "machine_id": "R101",
+        "message": "Anomaly detected in machine R101. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T10:54:18.695623",
+        "machine_id": "R101",
+        "message": "Anomaly detected in machine R101. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T10:54:18.764424",
+        "machine_id": "R104",
+        "message": "Anomaly detected in machine R104. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T10:54:28.897485",
+        "machine_id": "R105",
+        "message": "Anomaly detected in machine R105. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T10:54:28.936034",
+        "machine_id": "R103",
+        "message": "Anomaly detected in machine R103. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T10:54:29.070677",
+        "machine_id": "R104",
+        "message": "Anomaly detected in machine R104. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T10:54:49.649322",
+        "machine_id": "R104",
+        "message": "Anomaly detected in machine R104. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T10:54:59.928101",
+        "machine_id": "R104",
+        "message": "Anomaly detected in machine R104. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T10:55:10.145493",
+        "machine_id": "R105",
+        "message": "Anomaly detected in machine R105. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T10:55:10.206750",
+        "machine_id": "R103",
+        "message": "Anomaly detected in machine R103. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T10:55:10.232834",
+        "machine_id": "R104",
+        "message": "Anomaly detected in machine R104. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:49:53.756118",
+        "machine_id": "R103",
+        "message": "Anomaly detected in machine R103. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:49:53.780690",
+        "machine_id": "R101",
+        "message": "Anomaly detected in machine R101. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:49:53.793183",
+        "machine_id": "R104",
+        "message": "Anomaly detected in machine R104. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:50:04.053687",
+        "machine_id": "R101",
+        "message": "Anomaly detected in machine R101. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:50:04.072199",
+        "machine_id": "R104",
+        "message": "Anomaly detected in machine R104. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:50:04.086724",
+        "machine_id": "R103",
+        "message": "Anomaly detected in machine R103. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:50:14.351847",
+        "machine_id": "R101",
+        "message": "Anomaly detected in machine R101. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:50:14.373357",
+        "machine_id": "R104",
+        "message": "Anomaly detected in machine R104. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:50:24.653108",
+        "machine_id": "R101",
+        "message": "Anomaly detected in machine R101. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:50:24.685493",
+        "machine_id": "R103",
+        "message": "Anomaly detected in machine R103. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:50:24.735553",
+        "machine_id": "R105",
+        "message": "Anomaly detected in machine R105. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:50:35.038115",
+        "machine_id": "R103",
+        "message": "Anomaly detected in machine R103. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:50:45.438086",
+        "machine_id": "R105",
+        "message": "Anomaly detected in machine R105. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:50:55.597019",
+        "machine_id": "R101",
+        "message": "Anomaly detected in machine R101. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:50:55.711570",
+        "machine_id": "R103",
+        "message": "Anomaly detected in machine R103. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:50:55.769800",
+        "machine_id": "R105",
+        "message": "Anomaly detected in machine R105. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:51:06.063952",
+        "machine_id": "R103",
+        "message": "Anomaly detected in machine R103. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:51:16.298065",
+        "machine_id": "R104",
+        "message": "Anomaly detected in machine R104. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:51:16.360101",
+        "machine_id": "R103",
+        "message": "Anomaly detected in machine R103. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:51:26.549622",
+        "machine_id": "R101",
+        "message": "Anomaly detected in machine R101. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:51:26.670448",
+        "machine_id": "R104",
+        "message": "Anomaly detected in machine R104. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:51:37.115186",
+        "machine_id": "R105",
+        "message": "Anomaly detected in machine R105. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:51:47.233185",
+        "machine_id": "R101",
+        "message": "Anomaly detected in machine R101. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:51:47.346303",
+        "machine_id": "R104",
+        "message": "Anomaly detected in machine R104. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:51:47.489499",
+        "machine_id": "R105",
+        "message": "Anomaly detected in machine R105. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:51:57.544705",
+        "machine_id": "R101",
+        "message": "Anomaly detected in machine R101. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:51:57.652505",
+        "machine_id": "R104",
+        "message": "Anomaly detected in machine R104. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:51:57.712160",
+        "machine_id": "R103",
+        "message": "Anomaly detected in machine R103. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:51:57.787108",
+        "machine_id": "R105",
+        "message": "Anomaly detected in machine R105. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:52:07.898229",
+        "machine_id": "R101",
+        "message": "Anomaly detected in machine R101. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:52:08.102860",
+        "machine_id": "R103",
+        "message": "Anomaly detected in machine R103. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:52:08.162182",
+        "machine_id": "R105",
+        "message": "Anomaly detected in machine R105. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:52:18.358155",
+        "machine_id": "R104",
+        "message": "Anomaly detected in machine R104. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:52:18.408844",
+        "machine_id": "R103",
+        "message": "Anomaly detected in machine R103. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:52:28.700964",
+        "machine_id": "R103",
+        "message": "Anomaly detected in machine R103. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:52:28.761966",
+        "machine_id": "R105",
+        "message": "Anomaly detected in machine R105. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:52:49.193173",
+        "machine_id": "R101",
+        "message": "Anomaly detected in machine R101. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:52:49.364495",
+        "machine_id": "R103",
+        "message": "Anomaly detected in machine R103. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:52:49.420306",
+        "machine_id": "R105",
+        "message": "Anomaly detected in machine R105. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:52:59.650756",
+        "machine_id": "R104",
+        "message": "Anomaly detected in machine R104. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:52:59.710141",
+        "machine_id": "R103",
+        "message": "Anomaly detected in machine R103. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:53:10.040277",
+        "machine_id": "R103",
+        "message": "Anomaly detected in machine R103. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:53:20.177810",
+        "machine_id": "R101",
+        "message": "Anomaly detected in machine R101. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:53:20.330107",
+        "machine_id": "R104",
+        "message": "Anomaly detected in machine R104. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:53:20.400074",
+        "machine_id": "R103",
+        "message": "Anomaly detected in machine R103. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:53:30.754240",
+        "machine_id": "R103",
+        "message": "Anomaly detected in machine R103. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:53:30.814397",
+        "machine_id": "R105",
+        "message": "Anomaly detected in machine R105. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:53:51.106082",
+        "machine_id": "R101",
+        "message": "Anomaly detected in machine R101. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:53:51.152010",
+        "machine_id": "R105",
+        "message": "Anomaly detected in machine R105. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:54:01.400971",
+        "machine_id": "R103",
+        "message": "Anomaly detected in machine R103. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:54:01.416493",
+        "machine_id": "R101",
+        "message": "Anomaly detected in machine R101. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    },
+    {
+        "timestamp": "2026-08-08T11:54:01.647873",
+        "machine_id": "R104",
+        "message": "Anomaly detected in machine R104. The machine may be experiencing abnormal operating conditions. Please inspect the equipment and perform the necessary maintenance.",
+        "assigned": true
+    }
+]

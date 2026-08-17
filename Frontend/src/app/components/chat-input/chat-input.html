@@ -1,0 +1,68 @@
+<div class="input-container">
+
+    <button class="icon-btn">
+
+        <span class="material-symbols-rounded">
+
+            attach_file
+
+        </span>
+
+    </button>
+
+    <input
+        [disabled]="disabled"
+
+        [(ngModel)]="message"
+
+        (keydown.enter)="sendMessage()"
+
+        placeholder="Ask Strato anything..."
+
+    >
+
+    <button
+    type="button"
+    class="icon-btn"
+    (click)="toggleRecording()"
+    [disabled]="disabled"
+    [class.recording]="recording">
+
+    @if(recording){
+
+        <span class="material-symbols-rounded">
+
+            stop_circle
+
+        </span>
+
+    }
+    @else{
+
+        <span class="material-symbols-rounded">
+
+            mic
+
+        </span>
+
+    }
+
+</button>
+    <button
+        type="button"
+
+        class="send-btn"
+
+        [disabled]="disabled || !message.trim()"
+
+        (click)="sendMessage()">
+
+        <span class="material-symbols-rounded">
+
+            arrow_upward
+
+        </span>
+
+    </button>
+
+</div>

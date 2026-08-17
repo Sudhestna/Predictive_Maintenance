@@ -1,0 +1,14 @@
+component_id,robot_id,component_name,component_type
+C-R101-SRV,R101,Positioning Servo Motor Assembly,Servo Motor
+C-R101-ENC,R101,Joint Encoder Unit,Encoder
+C-R102-SPN,R102,FSW Spindle & Tool Holder,Spindle
+C-R102-CLT,R102,Coolant Circulation Pump,Pump
+C-R103-ACT,R103,Riveting Actuator/Torque Driver,Actuator
+C-R103-ENC,R103,Rivet Position Encoder,Encoder
+C-R104-NOZ,R104,Spray Nozzle Assembly,Nozzle
+C-R104-PMP,R104,Paint Delivery Pump,Pump
+C-R105-CAM,R105,Vision Camera & Lighting Module,Camera
+C-R105-LSR,R105,Laser Thickness Sensor Unit,Laser Sensor
+C-R105-PCU,R105,Vision Processing Unit (CPU),Processing Unit
+C-R101-TRN,R101,Joint Transmission / Gearbox Assembly,Transmission
+C-R103-CTL,R103,Servo Control Unit,Control Unit

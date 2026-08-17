@@ -1,0 +1,6 @@
+robot_id,robot_name,stage_id,stage_name,model,manufacturer,install_date,criticality,rated_cycles_per_day,last_calibration_date
+R101,Wing Positioning & Fixturing Robot,S1,Positioning & Fixturing,KUKA KR-360 FIX,KUKA Robotics,03/14/22,High,180,01/15/26
+R102,Friction Stir Welding Robot,S2,Friction Stir Welding,MAKA FSW-2200,MAKA Aerospace Systems,03/20/22,Critical,90,01/20/26
+R103,Automated Riveting Robot,S3,Automated Riveting,JAKA RIV-750,JAKA Aerospace Automation,04/02/22,Critical,220,01/18/26
+R104,Paint & Protective Coating Robot,S4,Paint & Coating,FUNA P-250iA,FANA Corporation,04/10/22,Medium,160,02/01/26
+R105,Vision Inspection Robot,S5,Vision Inspection,Cognex VR-Insight 9000,Cognex Aerospace Division,04/15/22,Critical,220,02/05/26

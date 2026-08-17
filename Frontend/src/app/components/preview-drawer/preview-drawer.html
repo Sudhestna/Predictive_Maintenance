@@ -1,0 +1,140 @@
+
+<div
+    class="drawer-backdrop"
+    [class.show]="isOpen"
+    (click)="close.emit()">
+
+</div>
+
+<div
+    class="drawer"
+    [class.open]="isOpen">
+
+    <div class="drawer-header">
+
+        <div>
+
+            <h3>{{ title }}</h3>
+
+            <small>
+
+                AI Supporting Evidence
+
+            </small>
+
+        </div>
+
+        <button
+            class="close-btn"
+            (click)="close.emit()">
+
+            <span class="material-symbols-rounded">
+
+                close
+
+            </span>
+
+        </button>
+
+    </div>
+
+    <div class="drawer-body">
+
+        @if(chunks.length > 0){
+
+            <div class="drawer-stats">
+
+                <div class="stat">
+
+                    <h2>{{ chunks.length }}</h2>
+
+                    <span>Chunks</span>
+
+                </div>
+
+                <div class="stat">
+
+                    <h2>RAG</h2>
+
+                    <span>Evidence</span>
+
+                </div>
+
+            </div>
+
+            @for(chunk of chunks; track $index){
+
+                <div class="chunk-card">
+
+                    <div class="chunk-header">
+
+                        <span class="material-symbols-rounded">
+
+                            menu_book
+
+                        </span>
+
+                        <span>
+
+                            Retrieved Context {{ $index + 1 }}
+
+                        </span>
+
+                    </div>
+
+                    <div class="chunk-text">
+
+                        {{ chunk }}
+
+                    </div>
+
+                </div>
+
+            }
+
+        }
+
+        @else if(pdfUrl){
+
+            <iframe
+                [src]="safePdfUrl"
+                width="100%"
+                height="100%"
+                frameborder="0">
+            </iframe>
+
+        }
+
+        @else{
+
+            <div class="empty">
+
+                <div class="empty-icon">
+
+                    <span class="material-symbols-rounded">
+
+                        folder_open
+
+                    </span>
+
+                </div>
+
+                <h3>
+
+                    Nothing to Preview
+
+                </h3>
+
+                <p>
+
+                    AI did not return any supporting documents.
+
+                </p>
+
+            </div>
+
+        }
+
+    </div>
+
+</div>

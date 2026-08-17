@@ -1,0 +1,142 @@
+:host {
+  display: block;
+}
+
+.header {
+  height: 72px;
+  background: var(--card-color); /* theme variable */
+  backdrop-filter: blur(12px);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 24px;
+  border-bottom: 1px solid var(--border-color);
+  color: var(--text-color);
+}
+
+.brand {
+
+  display: flex;
+
+  align-items: center;
+
+  gap: 14px;
+
+  cursor: pointer;
+
+  transition: transform .2s ease;
+
+}
+
+.brand:hover{
+
+    transform: scale(1.02);
+
+}
+
+.logo {
+  width: 48px;
+  height: 48px;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--primary-color); /* accent */
+  color: #fff;
+  box-shadow: 0 0 12px var(--primary-color);
+}
+
+.brand h2 {
+  font-size: 22px;
+  font-weight: 600;
+  margin: 0;
+  color: var(--text-color);
+}
+
+.brand small {
+  color: var(--text-secondary);
+}
+
+.header-actions{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:24px;
+
+    cursor: pointer;
+}
+
+.nav-tabs {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.nav-link {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-weight: 500;
+  color: var(--text-color);
+  text-decoration: none;
+  padding: 6px 10px;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+}
+
+.nav-link:hover {
+  background: var(--secondary-color);
+  box-shadow: 0 0 8px var(--primary-color);
+}
+
+.nav-link.active {
+  color: var(--primary-color);
+  border-bottom: 2px solid var(--primary-color);
+}
+
+.status {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 500;
+  color: var(--text-color);
+}
+
+.status-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.online {
+  background: #22c55e;
+  box-shadow: 0 0 8px #22c55e;
+}
+
+.offline {
+  background: #ef4444;
+  box-shadow: 0 0 8px #ef4444;
+}
+
+.theme-btn,
+.profile-btn {
+  width: 44px;
+  height: 44px;
+  border: none;
+  border-radius: 12px;
+  background: var(--secondary-color);
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: background 0.2s ease, box-shadow 0.2s ease;
+  color: var(--text-color);
+}
+
+.theme-btn:hover,
+.profile-btn:hover {
+  background: var(--secondary-color);
+  box-shadow: 0 0 12px var(--primary-color);
+}

@@ -1,0 +1,84 @@
+<div class="chat-container">
+
+  <div
+    #messagesContainer
+    class="messages-container" 
+    (scroll)="onMessagesScroll()">
+
+    @if(showWelcome()) {
+      <div class="welcome">
+        <h1>Welcome to StratoCore</h1>
+        <p>emphasize precision and control</p>
+
+        <div class="prompt-grid">
+          @for(item of suggestedPrompts; track item.title) {
+            <button
+              class="prompt-card"
+              (click)="sendSuggestedPrompt(item.prompt)">
+              <span class="material-symbols-rounded">
+                {{ item.icon }}
+              </span>
+              <div>
+                <h3>{{ item.title }}</h3>
+                <p>{{ item.prompt }}</p>
+              </div>
+            </button>
+          }
+        </div>
+      </div>
+    }
+
+    @for(msg of messages; track msg.id) {
+      <app-message
+        [message]="msg"
+        (showChunks)="openChunks($event)"
+        (showPdf)="openPdf($event)"
+        (feedback)="submitFeedback(msg,$event)">
+      </app-message>
+    }
+
+    <div #bottomAnchor class="bottom-anchor"></div>
+  </div>
+
+  @if(interruptActive) {
+    <div class="interrupt-row">
+      <div class="avatar">
+        <span class="material-symbols-rounded">smart_toy</span>
+      </div>
+      <app-interrupt-card
+        [question]="interruptQuestion"
+        [options]="interruptOptions"
+        [selected]="selectedInterrupt"
+        [disabled]="interruptWaiting"
+        [thinking]="interruptThinking"
+        (optionSelected)="interruptSelected($event)">
+      </app-interrupt-card>
+    </div>
+  }
+
+  @if(showScrollButton) {
+    <button
+      class="scroll-bottom-btn"
+      (click)="scrollToLatest()">
+      <span class="material-symbols-rounded">keyboard_arrow_down</span>
+      @if(unreadMessages > 0) {
+        <span class="badge">{{ unreadMessages }}</span>
+      }
+    </button>
+  }
+
+  <app-chat-input
+    [disabled]="interruptActive"
+    (messageSent)="receiveMessage($event)"
+    (audioRecorded)="transcribeAudio($event)">
+  </app-chat-input>
+
+  <app-preview-drawer
+    [isOpen]="drawerOpen"
+    [title]="drawerTitle"
+    [chunks]="drawerChunks"
+    [pdfUrl]="drawerPdf"
+    (close)="closeDrawer()">
+  </app-preview-drawer>
+
+</div>

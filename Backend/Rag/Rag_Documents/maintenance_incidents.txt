@@ -1,0 +1,2800 @@
+============================================================
+Incident ID: INC3000 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-01
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3001 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-01
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3002 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-01
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3003 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-01
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3004 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-01
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3005 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-01
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3006 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-01
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3007 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-01
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3008 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-01
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3009 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-01
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3010 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-01
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3011 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-01
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3012 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-01
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3013 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-01
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3014 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-01
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3015 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-01
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3016 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-02
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3017 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-02
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3018 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-02
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3019 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-02
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3020 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-02
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3021 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-02
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3022 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-02
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3023 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-02
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3024 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-02
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3025 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-02
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3026 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-02
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3027 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-02
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3028 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-02
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3029 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-02
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3030 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-02
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3031 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-02
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3032 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-02
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3033 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-02
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3034 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-02
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3035 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-02
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3036 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-02
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3037 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-02
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3038 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-02
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3039 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-02
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3040 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-03
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3041 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-03
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3042 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-03
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3043 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-03
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3044 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-03
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3045 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-03
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3046 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-03
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3047 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-03
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3048 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-03
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3049 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-03
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3050 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-03
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3051 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-03
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3052 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-03
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3053 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-03
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3054 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-03
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3055 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-03
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3056 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-03
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3057 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-03
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3058 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-03
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3059 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-03
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3060 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-03
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3061 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-03
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3062 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-03
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3063 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-03
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3064 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-04
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3065 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-04
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3066 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-04
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3067 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-04
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3068 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-04
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3069 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-04
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3070 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-04
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3071 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-04
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3072 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-04
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3073 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-04
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3074 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-04
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3075 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-04
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3076 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-04
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3077 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-04
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3078 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-04
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3079 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-04
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3080 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-04
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3081 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-04
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3082 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-04
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3083 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-04
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3084 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-04
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3085 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-04
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3086 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-04
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3087 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-04
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3088 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-05
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3089 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-05
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3090 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-05
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3091 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-05
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3092 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-05
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3093 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-05
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3094 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-05
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3095 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-05
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3096 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-05
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3097 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-05
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3098 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-05
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3099 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-05
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3100 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-05
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3101 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-05
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3102 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-05
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3103 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-05
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3104 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-05
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3105 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-05
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3106 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-05
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3107 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-05
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3108 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-05
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3109 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-05
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3110 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-05
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3111 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-05
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3112 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-06
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3113 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-06
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3114 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-06
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3115 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-06
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3116 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-06
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3117 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-06
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3118 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-06
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3119 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-06
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3120 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-06
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3121 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-06
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3122 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-06
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3123 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-06
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3124 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-06
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3125 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-06
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3126 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-06
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3127 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-06
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3128 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-06
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3129 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-06
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3130 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-06
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3131 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-06
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3132 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-06
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3133 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-06
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3134 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-06
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3135 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-06
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3136 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-07
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3137 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-07
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3138 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-07
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3139 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-07
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3140 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-07
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3141 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-07
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3142 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-07
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3143 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-07
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3144 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-07
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3145 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-07
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3146 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-07
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3147 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-07
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3148 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-07
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3149 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-07
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3150 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-07
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3151 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-07
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3152 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-07
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3153 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-07
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3154 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-07
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3155 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-07
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3156 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-07
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3157 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-07
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3158 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-07
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3159 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-07
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3160 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-08
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3161 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-08
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3162 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-08
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3163 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-08
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3164 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-08
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3165 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-08
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3166 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-08
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3167 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-08
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3168 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-08
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3169 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-08
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3170 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-08
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3171 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-08
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3172 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-08
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3173 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-08
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3174 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-08
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3175 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-08
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3176 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-08
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3177 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-08
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3178 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-08
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3179 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-08
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3180 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-08
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed lubrication applied to reduce friction. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3181 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-08
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3182 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-08
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3183 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-08
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3184 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-09
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3185 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-09
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3186 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-09
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed replaced worn-out seals. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3187 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-09
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3188 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-09
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3189 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-09
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3190 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-09
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3191 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-09
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3192 Machine ID: MCH_4 Equipment: Industrial Air Compressor Date: 2026-07-09
+Maintenance Type: Corrective
+
+During scheduled maintenance, technicians observed inconsistent sensor readings, calibration performed. Machine MCH_4 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3193 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-09
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3194 Machine ID: MCH_1 Equipment: Hydraulic Press Date: 2026-07-09
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_1 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3195 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-09
+Maintenance Type: Preventive
+
+During scheduled maintenance, technicians observed overheating detected, cooling system checked. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3196 Machine ID: MCH_5 Equipment: Packaging Robot Date: 2026-07-09
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_5 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3197 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-09
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed abnormal vibration before shutdown. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3198 Machine ID: MCH_3 Equipment: Industrial Conveyor Date: 2026-07-09
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_3 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================
+============================================================
+Incident ID: INC3199 Machine ID: MCH_2 Equipment: CNC Milling Machine Date: 2026-07-09
+Maintenance Type: Inspection
+
+During scheduled maintenance, technicians observed electrical wiring inspected and tightened. Machine MCH_2 | Severity
+Inspection confirmed the condition before it affected production quality.
+The affected components were cleaned and inspected, worn consumables were replaced where necessary,
+lubrication levels were restored, and machine parameters were verified through functional testing.
+No abnormal alarms were observed after validation.
+
+Outcome: Machine returned to normal operation.
+
+Recommendation: Monitor the affected component during the next maintenance cycle and review sensor trends for any recurring abnormalities.
+============================================================

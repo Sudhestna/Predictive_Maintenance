@@ -1,0 +1,416 @@
+{
+  "R101": [
+    {
+      "timestamp": "2026-08-07T09:00:00Z",
+      "event": "Machine Powered ON",
+      "status": "SUCCESS",
+      "operator_id": "OPR001",
+      "batch_id": "BATCH1001",
+      "remarks": "Robot initialized successfully."
+    },
+    {
+      "timestamp": "2026-08-07T09:02:11Z",
+      "event": "Wing Panel Loaded",
+      "status": "SUCCESS",
+      "operator_id": "OPR001",
+      "batch_id": "BATCH1001",
+      "remarks": "Wing panel secured."
+    },
+    {
+      "timestamp": "2026-08-07T09:03:18Z",
+      "event": "Wing Clamped",
+      "status": "SUCCESS",
+      "operator_id": "OPR001",
+      "batch_id": "BATCH1001",
+      "remarks": "Hydraulic clamps engaged."
+    },
+    {
+      "timestamp": "2026-08-07T09:04:42Z",
+      "event": "Wing Positioning Started",
+      "status": "SUCCESS",
+      "operator_id": "OPR001",
+      "batch_id": "BATCH1001",
+      "remarks": "Robot moving to programmed coordinates."
+    },
+    {
+      "timestamp": "2026-08-07T09:05:53Z",
+      "event": "Alignment Verified",
+      "status": "SUCCESS",
+      "operator_id": "OPR001",
+      "batch_id": "BATCH1001",
+      "remarks": "Position within tolerance."
+    },
+    {
+      "timestamp": "2026-08-07T09:07:25Z",
+      "event": "Position Lock Activated",
+      "status": "SUCCESS",
+      "operator_id": "OPR001",
+      "batch_id": "BATCH1001",
+      "remarks": "Wing ready for welding."
+    },
+    {
+      "timestamp": "2026-08-07T09:08:40Z",
+      "event": "Production Cycle Completed",
+      "status": "SUCCESS",
+      "operator_id": "OPR001",
+      "batch_id": "BATCH1001",
+      "remarks": "Cycle completed successfully."
+    },
+    {
+      "timestamp": "2026-08-07T09:09:18Z",
+      "event": "Robot Idle",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1001",
+      "remarks": "Waiting for next wing."
+    },
+    {
+      "timestamp": "2026-08-07T09:10:42Z",
+      "event": "Next Cycle Started",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1002",
+      "remarks": "New production batch."
+    },
+    {
+      "timestamp": "2026-08-07T09:12:10Z",
+      "event": "Wing Position Verified",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1002",
+      "remarks": "Ready for downstream process."
+    }
+  ],
+
+  "R102": [
+    {
+      "timestamp": "2026-08-07T09:15:00Z",
+      "event": "Machine Powered ON",
+      "status": "SUCCESS",
+      "operator_id": "OPR002",
+      "batch_id": "BATCH1002",
+      "remarks": "FSW robot initialized."
+    },
+    {
+      "timestamp": "2026-08-07T09:15:40Z",
+      "event": "Weld Program Selected",
+      "status": "SUCCESS",
+      "operator_id": "OPR002",
+      "batch_id": "BATCH1002",
+      "remarks": "Program WING_LEFT_V2."
+    },
+    {
+      "timestamp": "2026-08-07T09:16:18Z",
+      "event": "Coolant System Started",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1002",
+      "remarks": "Coolant circulation active."
+    },
+    {
+      "timestamp": "2026-08-07T09:17:00Z",
+      "event": "Friction Stir Welding Started",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1002",
+      "remarks": "Weld cycle initiated."
+    },
+    {
+      "timestamp": "2026-08-07T09:21:42Z",
+      "event": "Section A Weld Completed",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1002",
+      "remarks": "Quality acceptable."
+    },
+    {
+      "timestamp": "2026-08-07T09:24:18Z",
+      "event": "Section B Weld Completed",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1002",
+      "remarks": "No abnormalities."
+    },
+    {
+      "timestamp": "2026-08-07T09:25:06Z",
+      "event": "Cooling Cycle Completed",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1002",
+      "remarks": "Cooling successful."
+    },
+    {
+      "timestamp": "2026-08-07T09:26:00Z",
+      "event": "Quality Inspection Requested",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1002",
+      "remarks": "Forwarded to inspection."
+    },
+    {
+      "timestamp": "2026-08-07T09:27:44Z",
+      "event": "Robot Idle",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1002",
+      "remarks": "Awaiting next job."
+    },
+    {
+      "timestamp": "2026-08-07T09:28:55Z",
+      "event": "Next Production Cycle Started",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1003",
+      "remarks": "New wing assembly."
+    }
+  ],
+
+  "R103": [
+    {
+      "timestamp": "2026-08-07T09:30:00Z",
+      "event": "Machine Powered ON",
+      "status": "SUCCESS",
+      "operator_id": "OPR003",
+      "batch_id": "BATCH1003",
+      "remarks": "Robot ready."
+    },
+    {
+      "timestamp": "2026-08-07T09:31:05Z",
+      "event": "Rivet Feed Loaded",
+      "status": "SUCCESS",
+      "operator_id": "OPR003",
+      "batch_id": "BATCH1003",
+      "remarks": "Magazine refilled."
+    },
+    {
+      "timestamp": "2026-08-07T09:32:30Z",
+      "event": "Automated Riveting Started",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1003",
+      "remarks": "Production cycle started."
+    },
+    {
+      "timestamp": "2026-08-07T09:35:48Z",
+      "event": "Left Wing Riveting Completed",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1003",
+      "remarks": "Quality OK."
+    },
+    {
+      "timestamp": "2026-08-07T09:37:21Z",
+      "event": "Right Wing Riveting Completed",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1003",
+      "remarks": "Quality OK."
+    },
+    {
+      "timestamp": "2026-08-07T09:38:20Z",
+      "event": "Production Cycle Completed",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1003",
+      "remarks": "Cycle finished."
+    },
+    {
+      "timestamp": "2026-08-07T09:39:12Z",
+      "event": "Robot Idle",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1003",
+      "remarks": "Awaiting next part."
+    },
+    {
+      "timestamp": "2026-08-07T09:40:05Z",
+      "event": "New Batch Loaded",
+      "status": "SUCCESS",
+      "operator_id": "OPR003",
+      "batch_id": "BATCH1004",
+      "remarks": "Production resumed."
+    },
+    {
+      "timestamp": "2026-08-07T09:41:50Z",
+      "event": "Riveting Started",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1004",
+      "remarks": "Robot active."
+    },
+    {
+      "timestamp": "2026-08-07T09:44:15Z",
+      "event": "Rivet Quality Verified",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1004",
+      "remarks": "Within tolerance."
+    }
+  ],
+
+  "R104": [
+    {
+      "timestamp": "2026-08-07T09:45:00Z",
+      "event": "Paint Cycle Started",
+      "status": "SUCCESS",
+      "operator_id": "OPR004",
+      "batch_id": "BATCH1004",
+      "remarks": "Protective coating initiated."
+    },
+    {
+      "timestamp": "2026-08-07T09:46:10Z",
+      "event": "Primer Applied",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1004",
+      "remarks": "Uniform application."
+    },
+    {
+      "timestamp": "2026-08-07T09:48:22Z",
+      "event": "Top Coat Applied",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1004",
+      "remarks": "Coating thickness OK."
+    },
+    {
+      "timestamp": "2026-08-07T09:49:30Z",
+      "event": "Drying Started",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1004",
+      "remarks": "Forced air drying."
+    },
+    {
+      "timestamp": "2026-08-07T09:52:18Z",
+      "event": "Drying Completed",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1004",
+      "remarks": "Ready for inspection."
+    },
+    {
+      "timestamp": "2026-08-07T09:53:00Z",
+      "event": "Paint Cycle Completed",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1004",
+      "remarks": "Painting successful."
+    },
+    {
+      "timestamp": "2026-08-07T09:54:15Z",
+      "event": "Robot Idle",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1004",
+      "remarks": "Waiting for next component."
+    },
+    {
+      "timestamp": "2026-08-07T09:55:40Z",
+      "event": "Paint Cartridge Replaced",
+      "status": "SUCCESS",
+      "operator_id": "OPR004",
+      "batch_id": "BATCH1004",
+      "remarks": "Preventive replacement."
+    },
+    {
+      "timestamp": "2026-08-07T09:56:42Z",
+      "event": "Next Paint Cycle Started",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1005",
+      "remarks": "New production batch."
+    },
+    {
+      "timestamp": "2026-08-07T09:58:20Z",
+      "event": "Spray Pattern Verified",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1005",
+      "remarks": "Uniform coating achieved."
+    }
+  ],
+
+  "R105": [
+    {
+      "timestamp": "2026-08-07T10:00:00Z",
+      "event": "Inspection Program Loaded",
+      "status": "SUCCESS",
+      "operator_id": "OPR005",
+      "batch_id": "BATCH1005",
+      "remarks": "Vision model initialized."
+    },
+    {
+      "timestamp": "2026-08-07T10:01:12Z",
+      "event": "Inspection Started",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1005",
+      "remarks": "Scanning wing surface."
+    },
+    {
+      "timestamp": "2026-08-07T10:02:45Z",
+      "event": "Surface Scan Completed",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1005",
+      "remarks": "No anomalies detected."
+    },
+    {
+      "timestamp": "2026-08-07T10:03:28Z",
+      "event": "Thickness Measurement Completed",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1005",
+      "remarks": "Within specification."
+    },
+    {
+      "timestamp": "2026-08-07T10:04:15Z",
+      "event": "Inspection Passed",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1005",
+      "remarks": "Wing approved."
+    },
+    {
+      "timestamp": "2026-08-07T10:05:02Z",
+      "event": "Quality Report Generated",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1005",
+      "remarks": "Report stored."
+    },
+    {
+      "timestamp": "2026-08-07T10:05:55Z",
+      "event": "Robot Idle",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1005",
+      "remarks": "Awaiting next inspection."
+    },
+    {
+      "timestamp": "2026-08-07T10:07:14Z",
+      "event": "Next Inspection Started",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1006",
+      "remarks": "Scanning new wing."
+    },
+    {
+      "timestamp": "2026-08-07T10:09:22Z",
+      "event": "Inspection Completed",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1006",
+      "remarks": "No defects found."
+    },
+    {
+      "timestamp": "2026-08-07T10:10:00Z",
+      "event": "Quality Approved",
+      "status": "SUCCESS",
+      "operator_id": "SYSTEM",
+      "batch_id": "BATCH1006",
+      "remarks": "Released for assembly."
+    }
+  ]
+}

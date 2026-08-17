@@ -1,0 +1,83 @@
+<div class="interrupt-wrapper">
+
+    <div class="interrupt-tag">
+
+        <span class="material-symbols-rounded">
+
+            psychology
+
+        </span>
+
+        Additional information required
+
+    </div>
+
+    <div class="interrupt-question">
+
+        {{question}}
+
+    </div>
+
+    <div class="buttons">
+
+        <button
+
+            [disabled]="disabled"
+
+            [class.selected]="selected===true"
+
+            (click)="choose(true)">
+
+            @if(selected===true){
+
+                ✓ Yes
+
+            }
+            @else{
+
+                Yes
+
+            }
+
+        </button>
+
+        <button
+
+            [disabled]="disabled"
+
+            [class.selected]="selected===false"
+
+            (click)="choose(false)">
+
+            @if(selected===false){
+
+                ✓ No
+
+            }
+            @else{
+
+                No
+
+            }
+
+        </button>
+
+        @if(thinking){
+
+            <div class="thinking-row">
+
+                <span></span>
+
+                <span></span>
+
+                <span></span>
+
+                Strato is processing...
+
+            </div>
+
+        }
+
+    </div>
+
+</div>

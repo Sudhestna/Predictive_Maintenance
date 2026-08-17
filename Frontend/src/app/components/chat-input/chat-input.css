@@ -1,0 +1,141 @@
+.input-container {
+  display:flex;
+    align-items:center;
+    gap:10px;
+
+    background:var(--card-color);
+
+    border:1px solid var(--border-color);
+    border-radius:20px;
+
+    padding:12px 16px;
+
+    min-height:64px;
+
+    box-shadow:0 6px 18px rgba(0,0,0,.08);
+
+    transition:.25s;
+    padding: 10px 14px;
+  
+}
+
+.input-container:focus-within{
+    border-color:var(--primary-color);
+    box-shadow:0 0 0 3px rgba(37,99,235,.12);
+}
+
+input {
+  flex:1;
+
+  border:none;
+  outline:none;
+
+  background:transparent;
+
+  color:var(--text-color);
+
+  font-size:15px;
+  font-weight:500;
+  background: transparent;
+  color: var(--text-color);
+}
+
+input::placeholder{
+    color:var(--text-secondary);
+}
+
+
+.icon-btn {
+  width:40px;
+  height:40px;
+
+  border:none;
+  border-radius:12px;
+
+  background:transparent;
+
+  display:flex;
+  justify-content:center;
+  align-items:center;
+
+  cursor:pointer;
+
+  transition:.2s ease;
+
+  color: var(--text-color);
+}
+.icon-btn:hover{
+    background:var(--secondary-color);
+    color:var(--primary-color);
+    transform:translateY(-1px);
+}
+
+.send-btn{
+    width:44px;
+    height:44px;
+
+    border:none;
+    border-radius:48%;
+
+    background:var(--primary-color);
+
+    color:white;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    cursor:pointer;
+
+    transition:.2s;
+
+    box-shadow:0 4px 12px rgba(37,99,235,.25);
+}
+
+.send-btn:hover {
+  background: linear-gradient(135deg, #FF00A8, var(--primary-color));
+  box-shadow: 0 0 16px var(--primary-color);
+  transform:translateY(-2px);
+  filter:brightness(1.08);
+}
+
+.icon-btn.recording{
+    background:#EF4444 !important;
+    color:#ffffff !important;
+    animation:pulseRecording 1s infinite;
+}
+
+.icon-btn.recording .material-symbols-rounded{
+    color:#ffffff !important;
+}
+
+.icon-btn.recording:hover {
+  background: rgba(239,68,68,0.3);
+}
+
+.send-btn .material-symbols-rounded{
+    font-size:22px;
+}
+
+.icon-btn .material-symbols-rounded{
+    font-size:22px;
+}
+
+.send-btn:disabled{
+    background:#CBD5E1;
+    color:#94A3B8;
+    box-shadow:none;
+    cursor:not-allowed;
+    opacity:.7;
+}
+
+.icon-btn:disabled{
+    opacity:.45;
+    cursor:not-allowed;
+}
+
+@keyframes pulseRecording {
+  0%   { transform: scale(1); }
+  50%  { transform: scale(1.12); }
+  100% { transform: scale(1); }
+}

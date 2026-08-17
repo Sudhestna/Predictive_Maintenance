@@ -1,0 +1,35 @@
+<div class="sidebar" [class.hidden]="!isOpen">
+  <button class="new-chat" (click)="createSession()">
+    <span class="material-symbols-rounded">add</span> New Session
+  </button>
+
+  <button class="upload-btn" (click)="fileInput.click()" [disabled]="uploading">
+    <span class="material-symbols-rounded">
+      @if(uploading){ progress_activity } @else{ upload_file }
+    </span>
+    @if(uploading){ {{ uploadFileName }} } @else{ Upload & Ingest }
+  </button>
+
+  <input #fileInput hidden type="file" accept=".pdf,.txt,.xml,.csv" (change)="uploadDocument($event)" />
+
+  <p class="title">CHAT HISTORY</p>
+  <div class="section">
+    @for(session of sessions; track session.session_id){
+      <div class="item" [class.active]="currentSessionId === session.session_id">
+        <div class="session-info" (click)="selectSession(session.session_id)">
+          <span class="material-symbols-rounded">forum</span>
+          {{ session.session_id.slice(0,8) }}
+        </div>
+        <button class="delete-btn" (click)="deleteSession(session.session_id,$event)">
+          <span class="material-symbols-rounded">delete</span>
+        </button>
+      </div>
+    }
+  </div>
+
+  <div class="bottom" (click)="goToSettings()">
+    <div class="item settings">
+      <span class="material-symbols-rounded">settings</span> Settings
+    </div>
+  </div>
+</div>

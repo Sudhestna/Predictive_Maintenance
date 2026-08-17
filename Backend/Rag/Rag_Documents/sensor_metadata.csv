@@ -1,0 +1,26 @@
+sensor_id,robot_id,component_id,sensor_name,sensor_type,unit,warning_threshold,critical_threshold
+S-R101-01,R101,C-R101-SRV,Joint Temperature,Temperature,°C,70,85
+S-R101-02,R101,C-R101-SRV,Motor Current,Current,A,18,22
+S-R101-03,R101,C-R101-TRN,Joint Vibration,Vibration,mm/s,4,6
+S-R101-04,R101,C-R101-TRN,Encoder Position,Position Error,mm,0.5,1
+S-R101-05,R101,C-R101-TRN,Torque Sensor,Torque,Nm,850,1000
+S-R102-01,R102,C-R102-SPN,Welding Temperature,Temperature,°C,380,430
+S-R102-02,R102,C-R102-SPN,Spindle Torque,Torque,Nm,1100,1300
+S-R102-03,R102,C-R102-CLT,Coolant Flow Rate,Flow,L/min,12,8
+S-R102-04,R102,C-R102-SPN,Motor Current,Current,A,35,42
+S-R102-05,R102,C-R102-SPN,Vibration,mm/s,mm/s,5,8
+S-R103-01,R103,C-R103-ACT,Pneumatic Pressure,Pressure,bar,5,4
+S-R103-02,R103,C-R103-ACT,Riveting Force,Force,kN,8,6
+S-R103-03,R103,C-R103-CTL,Motor Current,Current,A,20,25
+S-R103-04,R103,C-R103-ACT,Vibration,Vibration,mm/s,5,7
+S-R103-05,R103,C-R103-ACT,Encoder Position,Position Error,mm,0.4,0.8
+S-R104-01,R104,C-R104-PMP,Paint Pressure,Pressure,bar,4,3
+S-R104-02,R104,C-R104-PMP,Paint Flow Rate,Flow,L/min,18,12
+S-R104-03,R104,C-R104-NOZ,Nozzle Temperature,Temperature,°C,65,80
+S-R104-04,R104,C-R104-PMP,Pump Current,Current,A,15,20
+S-R104-05,R104,C-R104-NOZ,Robot Speed,Speed,mm/s,180,240
+S-R105-01,R105,C-R105-CAM,Camera Temperature,Temperature,°C,55,70
+S-R105-02,R105,C-R105-LSR,Laser Thickness,Thickness,mm,0.08,0.12
+S-R105-03,R105,C-R105-CAM,Lighting Intensity,Lux,lux,750,500
+S-R105-04,R105,C-R105-PCU,CPU Temperature,Temperature,°C,70,85
+S-R105-05,R105,C-R105-CAM,Camera Position Encoder,Position Error,mm,0.3,0.7

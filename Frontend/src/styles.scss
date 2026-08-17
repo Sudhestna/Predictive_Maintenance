@@ -1,0 +1,91 @@
+
+
+/* ===========================
+   Global Styles
+   =========================== */
+body {
+  margin: 0;
+  font-family: Inter, "Segoe UI", sans-serif;
+  background: var(--background-color);
+  color: var(--text-color);
+}
+body.light-theme {
+  --background-color: #F5F7FA;
+  --card-color: #FFFFFF;
+  --primary-color: #2563EB;
+  --secondary-color: #EEF2FF;
+  --text-color: #1E293B;
+  --text-secondary: #64748B;
+  --border-color: #E2E8F0;
+  --sidebar-width: 280px;
+
+  color-scheme: light;
+  background-color: var(--mat-sys-surface);
+  color: var(--mat-sys-on-surface);
+}
+
+body.dark-theme {
+  --background-color: #0B1120;
+  --card-color: rgba(255,255,255,0.06);
+  --primary-color: #00FFFF;
+  --secondary-color: rgba(255,255,255,0.08);
+  --text-color: #E5E7EB;
+  --text-secondary: #9CA3AF;
+  --border-color: rgba(255,255,255,0.1);
+  --sidebar-width: 280px;
+
+  color-scheme: dark;
+  background-color: var(--mat-sys-surface);
+  color: var(--mat-sys-on-surface);
+}
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+/* Panels & Cards */
+.panel {
+  background: var(--card-color);
+  border-radius: 12px;
+  padding: 18px;
+  box-shadow: 0 4px 12px rgba(0,0,0,.3);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.panel:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 24px var(--primary-color);
+}
+
+/* Buttons */
+.btn {
+  border: none;
+  border-radius: 8px;
+  padding: 10px 16px;
+  background: var(--primary-color);
+  color: #fff;
+  cursor: pointer;
+  transition: background 0.2s ease, box-shadow 0.2s ease;
+}
+.btn:hover {
+  background: var(--secondary-color);
+  box-shadow: 0 0 12px var(--primary-color);
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 12px;
+  color: var(--text-color);
+}
+th, td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid var(--border-color);
+}
+th {
+  background: var(--secondary-color);
+  font-weight: 600;
+}

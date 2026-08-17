@@ -1,0 +1,102 @@
+<header class="header">
+
+    <div 
+      class="brand"
+      (click)="goToChat()">
+
+        <div class="logo">
+            <span class="material-symbols-rounded">
+                smart_toy
+            </span>
+        </div>
+
+        <div>
+            <h2>StratoCore</h2>
+            <small>Enterprise AI Platform</small>
+        </div>
+
+    </div>
+
+    <div class="header-actions">
+
+        <!-- Navigation -->
+        <nav class="nav-tabs">
+
+            <a (click)="goToDashboard()" class="nav-link">
+                <span class="material-symbols-rounded">
+                    dashboard
+                </span>
+                Dashboard
+            </a>
+
+            <a (click)="goToAnalytics()" class="nav-link">
+                <span class="material-symbols-rounded">
+                    analytics
+                </span>
+                Analytics
+            </a>
+
+        </nav>
+
+        <!-- Status -->
+        <div class="status">
+
+            <span
+                class="status-dot"
+                [class.online]="connected"
+                [class.offline]="!connected">
+            </span>
+
+            <span class="status-text">
+
+                @if(checkingHealth){
+
+                    Checking...
+
+                }
+                @else if(connected){
+
+                    Connected
+
+                }
+                @else{
+
+                    Offline
+
+                }
+
+            </span>
+
+        </div>
+
+        <!-- Theme -->
+
+        <button
+            class="theme-btn"
+            (click)="themeChange()">
+
+            <span class="material-symbols-rounded">
+
+                {{ theme === 'light' ? 'dark_mode' : 'light_mode' }}
+
+            </span>
+
+        </button>
+
+        <!-- Profile -->
+
+        <button
+            class="profile-btn"
+            (click)="goToProfile()">
+
+            <span class="material-symbols-rounded">
+
+                account_circle
+
+            </span>
+
+        </button>
+
+    </div>
+
+</header>

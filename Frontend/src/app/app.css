@@ -1,0 +1,42 @@
+:host {
+  display: block;
+  height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.app-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background: var(--background-color); /* theme variable */
+  color: var(--text-color);
+}
+
+.workspace {
+  flex: 1;
+  grid-template-columns: var(--sidebar-width) 1fr;
+  overflow: hidden;
+  min-height: 0;
+  height: 100%;
+}
+
+.workspace > * {
+  min-height: 0;
+  height: 100%;
+}
+
+/* Chat container */
+.chat-container {
+  margin-bottom: 0;
+  background: var(--card-color); /* theme variable */
+  color: var(--text-color);
+}
+
+/* Bottom anchor */
+.bottom-anchor {
+  height: 0;
+}

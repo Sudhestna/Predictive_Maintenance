@@ -1,0 +1,85 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+
+.analytics-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background: var(--background-color);
+  color: var(--text-color);
+}
+
+.analytics-header {
+  flex-shrink: 0;
+  padding: 20px;
+  background: var(--card-color);
+  box-shadow: 0 2px 8px rgba(0,0,0,.2);
+}
+
+.analytics-content {
+  flex: 1;
+  overflow-y: auto; /* scrollable content */
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.kpi-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 18px;
+  margin-bottom: 28px;
+}
+
+.kpi-card {
+  background: var(--card-color);
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 4px 12px rgba(0,0,0,.2);
+  text-align: center;
+}
+.kpi-card.warning {
+  border-left: 4px solid orange;
+}
+
+.charts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+  margin-bottom: 28px;
+}
+
+.chart-card {
+  background: var(--card-color);
+  border-radius: 12px;
+  padding: 18px;
+  box-shadow: 0 4px 24px rgba(0,0,0,.3);
+  overflow: hidden;
+}
+
+.data-table {
+  background: var(--card-color);
+  border-radius: 12px;
+  padding: 18px;
+  box-shadow: 0 4px 24px rgba(0,0,0,.3);
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 12px;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid var(--border-color);
+}
+
+th {
+  background: var(--secondary-color);
+  font-weight: 600;
+}

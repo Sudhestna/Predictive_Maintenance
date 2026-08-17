@@ -1,0 +1,66 @@
+<div class="dashboard-container">
+  <h1>{{ title }}</h1>
+
+  <div class="simulator" style="width: 1200px;">
+    <label for="equipment">Select Equipment</label>
+    <select id="equipment"
+            [(ngModel)]="selectedEquipment"
+            (ngModelChange)="onEquipmentChange()"
+            class="custom-dropdown">
+      <option *ngFor="let robot of robots" [value]="robot.equipmentId">
+        {{ robot.equipmentId }}
+      </option>
+    </select>
+
+    <!-- dynamic sliders -->
+    <div class="slider-group"
+         *ngFor="let label of sliderLabels[selectedEquipment]; let i = index">
+      <label>{{ label }}</label>
+
+      <!-- <mat-slider
+        [(ngModel)]="sliderValues[i]"
+        (input)="onSliderChange(i, $event)"
+        [min]="sensorRanges[selectedEquipment]?.[i]?.min ?? 0"
+        [max]="sensorRanges[selectedEquipment]?.[i]?.max ?? 100"
+        [step]="sensorRanges[selectedEquipment]?.[i]?.step ?? 1"
+        showTickMarks
+        discrete
+        [displayWith]="formatLabel">
+      </mat-slider> -->
+      <mat-slider [min]="sensorRanges[selectedEquipment]?.[i]?.min ?? 0"
+        [max]="sensorRanges[selectedEquipment]?.[i]?.max ?? 100"
+        [step]="sensorRanges[selectedEquipment]?.[i]?.step ?? 1"
+        showTickMarks
+        discrete
+        [displayWith]="formatLabel">
+        <input matSliderThumb [(ngModel)]="sliderValues[i]" (input)="onSliderChange(i, $event)">
+      </mat-slider>
+
+      <!-- <div class="slider-value">
+        <small>{{ sliderValues[i] }}</small>
+      </div>
+
+      <div class="slider-group">
+        <label>{{ sliderLabels[selectedEquipment]?.[4] || 'Load' }}</label>
+        <mat-slider min="0" max="999" step="1" showTickMarks discrete [displayWith]="formatLabel">
+          <input matSliderThumb [(ngModel)]="loadValue" (input)="onSliderChange('load', $event)">
+        </mat-slider>
+      </div> -->
+    </div>
+
+    <button mat-raised-button color="warn" (click)="resetSliders()">
+      Reset Sliders
+    </button>
+  </div>
+
+  <div class="charts">
+    <div class="chart-card">
+      <h3>Sensor Trends</h3>
+      <canvas id="sensorChart"></canvas>
+    </div>
+    <div class="chart-card">
+      <h3>Issues by Machine</h3>
+      <canvas id="anomalyChart"></canvas>
+    </div>
+  </div>
+</div>

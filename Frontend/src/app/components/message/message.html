@@ -1,0 +1,329 @@
+<div
+    class="message-row"
+    [class.user-row]="message.sender === 'user'">
+
+    @if(message.sender === 'assistant'){
+
+        <div class="avatar bot-avatar">
+
+            <span class="material-symbols-rounded">
+                smart_toy
+            </span>
+
+        </div>
+
+    }
+
+    @else{
+
+        <div class="avatar user-avatar">
+
+            <span class="material-symbols-rounded">
+                account_circle
+            </span>
+
+        </div>
+
+    }
+
+    <div
+        class="message-bubble"
+        [class.user-bubble]="message.sender==='user'">
+
+        <!-- LOADING -->
+
+        @if(message.loading){
+
+            <div class="thinking-indicator">
+
+                <span class="thinking-text">
+                    Strato is thinking
+                </span>
+
+                <div class="typing">
+
+                    <span></span>
+                    <span></span>
+                    <span></span>
+
+                </div>
+
+            </div>
+
+        }
+
+        <!-- STREAMING -->
+
+        @else if(message.streaming){
+
+            <div class="message-text markdown-body"
+            [innerHTML]="renderedResponse">
+            </div>
+
+        <span class="cursor"></span>
+
+        }
+
+        <!-- FINAL -->
+
+        @else{
+
+            <div class="message-text markdown-body"
+            [innerHTML]="renderedResponse">
+            </div>
+
+        }
+
+        @if(message.sources && message.sources.length > 0){
+
+    <div class="sources-section">
+
+        <div class="sources-title">
+
+            <span class="material-symbols-rounded">
+                source
+            </span>
+
+            Sources
+        </div>
+
+        <div class="sources-list">
+
+            @for(source of message.sources; track source){
+
+                <div class="source-item">
+
+                    <span class="material-symbols-rounded">
+                        description
+                    </span>
+
+                    <span class="source-name">
+                        {{ source }}
+                    </span>
+
+                </div>
+
+            }
+
+        </div>
+
+    </div>
+
+}
+
+        @if(!message.loading && !message.streaming){
+
+            <div class="message-info">
+
+                <span>
+
+                    {{message.timestamp | date:'shortTime'}}
+
+                </span>
+
+            </div>
+
+            @if(!showFeedbackBox){
+            <div class="message-actions">
+
+                <button
+                    class="icon-btn"
+                    (click)="copyMessage()">
+
+                    <span class="material-symbols-rounded">
+                        content_copy
+                    </span>
+
+                </button>
+
+                @if(message.chunks && message.chunks.length>0){
+
+                    <button
+                        class="icon-btn"
+                        (click)="openChunks()">
+
+                        <span class="material-symbols-rounded">
+                            menu_book
+                        </span>
+
+                    </button>
+
+                }
+
+                @if(message.filePath){
+
+                    <button
+                        class="icon-btn"
+                        (click)="openPdf()">
+
+                        <span class="material-symbols-rounded">
+                            picture_as_pdf
+                        </span>
+
+                    </button>
+
+                }
+
+                @if(message.audioPath && message.isLatest){
+
+                    <button
+                        class="audio-btn"
+                        (click)="playAudio(message.audioPath!)">
+
+                        <span class="material-symbols-rounded">
+
+                            {{ isPlaying ? 'pause_circle' : 'play_circle' }}
+
+                        </span>
+
+                        {{ isPlaying ? 'Pause' : 'Listen' }}
+
+                    </button>
+
+                }
+
+            </div>
+            }
+
+                    @if(message.sender === "assistant" && message.isLatest){
+
+            <div class="feedback-section">
+
+                @if(!message.feedbackSubmitted){
+
+                    <div class="feedback-row">
+
+                        <button
+                            class="feedback-btn"
+                            (click)="positiveFeedback()">
+
+                            <span class="material-symbols-rounded">
+                                thumb_up
+                            </span>
+
+                            Helpful
+
+                        </button>
+
+                        <button
+                            class="feedback-btn"
+                            (click)="negativeFeedback()">
+
+                            <span class="material-symbols-rounded">
+                                thumb_down
+                            </span>
+
+                            Not Helpful
+
+                        </button>
+
+                    </div>
+
+                }
+                @else{
+
+                    <div class="feedback-success">
+
+                        <span class="material-symbols-rounded">
+                            check_circle
+                        </span>
+
+                        Thanks for your feedback
+
+                    </div>
+
+                }
+
+            </div>
+
+        }
+
+        @if(showFeedbackBox){
+
+            <div class="feedback-box">
+
+                <div class="feedback-title">
+                    <span>What went wrong?</span>
+                </div>
+
+                <div class="feedback-options">
+
+                    @for(option of feedbackOptions; track option){
+
+                        <label
+                            class="feedback-option"
+                            [class.selected]="selectedFeedback === option">
+
+                            <input
+                                type="radio"
+                                name="feedback-{{ message.id }}"
+                                [value]="option"
+                                [(ngModel)]="selectedFeedback">
+
+                            <span class="feedback-radio"></span>
+
+                            <span class="feedback-option-text">
+                                {{ option }}
+                            </span>
+
+                        </label>
+
+                    }
+
+                </div>
+
+                <textarea
+                    [(ngModel)]="feedbackComment"
+                    [placeholder]="
+                        selectedFeedback === 'Others'
+                            ? 'Please tell us what went wrong...'
+                            : 'Additional comments (optional)...'
+                    ">
+                </textarea>
+
+                @if(selectedFeedback === 'Others' && !feedbackComment.trim()){
+
+                    <div class="feedback-required">
+                        Please provide a comment for "Others".
+                    </div>
+
+                }
+
+                <div class="feedback-actions">
+
+                    <button
+                        type="button"
+                        class="cancel-btn"
+                        (click)="message.feedbackOpen=false">
+
+                        Cancel
+
+                    </button>
+
+                    <button
+                        type="button"
+                        class="submit-btn"
+                        [disabled]="
+                            !selectedFeedback ||
+                            (
+                                selectedFeedback === 'Others' &&
+                                !feedbackComment.trim()
+                            )
+                        "
+                        (click)="submitNegativeFeedback()">
+
+                        Submit
+
+                    </button>
+
+                </div>
+
+            </div>
+
+        }
+
+    }
+
+</div>
+
+</div>
